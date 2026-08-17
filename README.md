@@ -1,8 +1,11 @@
-# NtReadVirtualMemory
 
-been writing code since 13. python first, now mostly c++ and low level.
+# Yeezu
+
+17 y/o developer from germany. been writing code since 13. python first, now mostly c++ and low level.
 
 into reverse engineering, crackmes, game internals, windows stuff.
+
+made roblox externals, fivem internal, cs2 internal and external.
 
 ts for backend when i need it. luau, html/css/js on the side.
 
